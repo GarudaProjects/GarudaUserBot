@@ -13,14 +13,7 @@
   </a>
 </p>  
 
-# Lord Userbot
-![Lord Userbot Logo](https://telegra.ph/file/62dc59b2013a48f9cc8f3.jpg)
-
-<h3 align="center">Userbot Yang Digunakan Untuk Bersenang-Senang Di Telegram</h3>
-<p align="center">&nbsp;</p>
-
-### Repo Lord Userbot
-Repo Yang Dibuat [Alvin](https://t.me/liualvinas) Dari Berbagai Repo Userbot Github 
+# Garuda Userbot
 
 
 ### CARA MENDAPATKAN STRING SESSON
@@ -29,7 +22,6 @@ Caranya Pergi Ke Grup Support Lord-Userbot Lalu Ketik #String [TEKAN DISINI](htt
 
 ## Bagaimana Cara Deploy?
 
-```
 * **CARA DEPLOY** 🔧
 
   > Pertama Dapatkan API_KE & API_HASH Di my.telegram.org (Wajib)
