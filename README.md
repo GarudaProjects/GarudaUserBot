@@ -1,4 +1,6 @@
-<center><a href="https://cooltext.com"><img src="https://images.cooltext.com/5513668.gif" width="473" height="82" alt="Garuda UserBot" /></a></center>
+<p align="center">
+  <a href="https://cooltext.com"><img src="https://images.cooltext.com/5513668.gif" width="473" height="82" alt="Garuda UserBot" /></a>
+  </p>
 
 
 <p align="center">
