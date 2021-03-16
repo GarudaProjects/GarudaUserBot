@@ -1,13 +1,13 @@
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5513668.gif" width="473" height="82" alt="Garuda UserBot" /></a>
+<center><a href="https://cooltext.com"><img src="https://images.cooltext.com/5513668.gif" width="473" height="82" alt="Garuda UserBot" /></a></center>
 
 
 <p align="center">
-  <a href="https://github.com/Zora24/Lord-Userbot/fork">
-    <img src="https://img.shields.io/github/forks/Zora24/Lord-Userbot?label=Fork&style=social">
+  <a href="https://github.com/GarudaProjects/GarudaUserBot/fork">
+    <img src="https://img.shields.io/github/forks/GarudaProjects/GarudaUserBot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/Zora24/Lord-Userbot">
-    <img src="https://img.shields.io/github/stars/Zora24/Lord-Userbot?style=social">
+  <a href="https://github.com/GarudaProjects/GarudaUserBot">
+    <img src="https://img.shields.io/github/stars/GarudaProjects/GarudaUserBot?style=social">
   </a>
 </p>  
 
